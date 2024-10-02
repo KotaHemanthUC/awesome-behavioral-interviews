@@ -940,3 +940,46 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ## 📇 Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+
+
+
+
+## Simple Interview Questions 
+
+- If you could change anything about your current job, what would it be?
+- Not much tbh Everyone on my team is very nice to work with; however, our office feels isolated from the others since the accounting department is on a small floor on its own. If I could change anything about my current situation, I would have a more collaborative and modern workspace. I love that your office offers an open-air environment that allows for collaboration between team members.
+
+- Name one suggested area of improvement from your last performance review.
+- My Technical Manager most recently mentioned that she wanted to start grooming me for further leadership opportunities. She gave me some reading material and suggested a few online podcasts to listen to as well. I am working on these materials every weekend.
+
+- Describe yourself in just three words.
+- If I had just only 3 words to describe myself, I would say that I am positive, enthusiastic, and available. I have a great can-do attitude and positively impact morale. This plays into my enthusiasm, and I often set the pace, because I love doing driving the work I do, scale it up and have a lot of energy. And by available, I mean I am reliable, adaptable, I rise to every occasion, and will always make time for you in any way I can.
+
+
+- Would you rather lead or follow?
+- I can quite easily swap between leading and following, depending on the situation. Naturally, I am inclined to lead, but when I am expected to sit back and absorb, I am completely able to do that as well.
+
+- What does greatness, and success, mean to you?
+- To me, greatness and success means achieving the goals that you set for yourself. I know the sense of accomplishment when I can make that work, and it makes me feel like I am on top of the world.
+
+- Besides compensation, what do you value the most in the workplace?
+- How do you feel about relocation or substantial amounts of travel?
+- How much do you think this job should pay?
+- What is your long-range career objective?
+- Why should we hire you?
+- Tell me something about yourself that I wouldn't know from reading your resume.
+- Do you consider yourself a team player?
+- Have you ever experienced conflict with a Manager or professor? How was it resolved?
+- What would your most recent boss say about you if they were asked to describe your character?
+- What qualities do you feel make a manager successful?
+- Do you ever use your sense of humor to diffuse a situation at work?
+- What is your biggest regret?
+- Tell me about the worst manager you ever had.
+- What was your least favorite job? Why?
+- Tell me about a time when you had to work with a difficult person. How did you handle it?
+- Why do you think you will be successful in this role?
+- How do you manage your time, even on the busiest days?
+- What motivates you?
+
+
+https://www.mockquestions.com/interview/Tough/What-do-you-know-about-us-3323039.html
