@@ -991,3 +991,4 @@ https://www.thebalancemoney.com/top-behavioral-interview-questions-2059618
 https://github.com/wdan/behavior-questions-answers?tab=readme-ov-file#how-do-you-deal-with-conflicts : Has sample answers. 
 
 
+https://www.amazon.jobs/content/en/our-workplace/leadership-principles
