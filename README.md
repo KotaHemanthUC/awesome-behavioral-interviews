@@ -980,6 +980,14 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - Why do you think you will be successful in this role?
 - How do you manage your time, even on the busiest days?
 - What motivates you?
+- Who are your top competitors, and how do you stand apart?
+- You should already know a bit about the company's top competitors, from the research you conducted before your interview. Let the interviewer know that you believe companies A, B, and C to be the most obvious competitors, and then express that you would like to learn more. The information you are looking for will focus on how the company feels internally and how they compete in its marketplace. Perhaps it is their exceptional level of customer service or a superior product offering. Whatever the answer may be, look for pride and excitement on the interviewers' behalf. The more you learn by asking this question, the more information you will have in your toolbox for future interviews.
 
 
 https://www.mockquestions.com/interview/Tough/What-do-you-know-about-us-3323039.html
+
+https://www.thebalancemoney.com/top-behavioral-interview-questions-2059618
+
+https://github.com/wdan/behavior-questions-answers?tab=readme-ov-file#how-do-you-deal-with-conflicts : Has sample answers. 
+
+
