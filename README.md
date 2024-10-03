@@ -993,6 +993,6 @@ https://github.com/wdan/behavior-questions-answers?tab=readme-ov-file#how-do-you
 
 https://www.amazon.jobs/content/en/our-workplace/leadership-principles
 
-Imagine Situation : Can hit more leadership qualities
+Imagine Situation questionnaire : Can hit more leadership qualities
 
-Base on past history : Can hit little less leadership qualities. 
+Based on past history question : Can hit little less leadership qualities. 
