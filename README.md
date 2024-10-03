@@ -996,3 +996,31 @@ https://www.amazon.jobs/content/en/our-workplace/leadership-principles
 Imagine Situation questionnaire : Can hit more leadership qualities
 
 Based on past history question : Can hit little less leadership qualities. 
+
+If your answer covers small set of leadership qualities, pace it faster. 
+
+Coachable
+
+Doesn't fuck with other people
+
+Don't ruffle any feathers with seniors
+
+Data points
+
+Stand up for right 
+
+Technical Skills
+
+Likeable 
+
+Focus more what you did. 
+
+
+
+
+
+
+
+
+
+
