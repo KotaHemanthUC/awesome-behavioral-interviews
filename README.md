@@ -927,6 +927,20 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 
+<details>
+<summary><b>Describe a time when you took an unpopular stance in a meeting with peers and your leader. What was it? Why did you feel strongly about it? What did you do? What was the outcome?</b></summary>
+
+ <li><b>Situation: </b> We had an overflow of client requests for new features and as the product was growing, we were also facing a scale of input which we haven't seen before. Because of this, we had a scalability problem. But because the product was being widely used, the clients wanted new features for easier process for their own. The manager wanted to focus on new client requests and many of my peers agreed to the same, but I was on the side of focusing on scalability issues and stopping new client requests until we could clear out the problems which we were already facing. I felt that the scalability issues are more important, I wanted our product to have a good flow with the existing features instead of adding new capabilities onto an existing low throughput application. On the other hand, we weren’t in a position to deny client requests because the customer is the god and we didn’t want to disappoint our user base.
+    </li>
+    <li><b>Task: </b> At the end of the discussion, we agreed that we weren’t in a position to deny clients and started working on the new features.
+    </li>
+    <li><b>Action: </b>At the end of the discussion, we agreed that we weren’t in a position to deny clients and started working on the new features.
+    </li>
+    <li><b>Result: </b>The development of new features went well, but in the middle, as we didn’t have a scalable architecture, we faced major outages, heavy backlog in our application which reduced the customer satisfaction. In hindsight, I understand why we had to take that decision. We wanted the customers and to keep them happy and weren’t in a position to be in a dissatisfied state with them. I would probably take the same decision if I was the major stakeholder.
+    </li>
+  
+</details>
+
 ## ？Questions you can ask the interviewer
 - What brought you to this company? What has been most challenging for you?
 - Can you share some insight about the day-to-day responsibilities of this position? What’s a typical day like?
