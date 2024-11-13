@@ -884,7 +884,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 <details>
 
-<summary><b> Tell me about a time when you were trying to understand a complex problem on your team and you had to dig into the details to figure it out. Who did you talk with or where did you have to look to find the most valuable information? How did you use that information to help solve the problem? </b></summary>
+<summary><b> Tell me about a situation that required you to dig deep to get to the root cause. How did you know you were focusing on the right things? What was the outcome? Would you have done anything differently? </b></summary>
   
 <summary><b> Tell me a time when you linked two or more problems together and identified an underlying issue.</b></summary>
 <ul>
