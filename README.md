@@ -883,10 +883,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Tell me a time when you linked two or more problems together and identified an underlying issue.</b></summary>
+
+<summary><b> Tell me about a time when you were trying to understand a complex problem on your team and you had to dig into the details to figure it out. Who did you talk with or where did you have to look </b></summary>
+  
+<summary><b> Tell me a time when you linked two or more problems together and identified an underlying issue.</b></summary>
 <ul>
     <li>
-    <b>Situation: </b>In my previous role as a software developer at a healthcare technology company, we were experiencing recurring issues with our patient data management system. Two main problems kept surfacing: first, there were intermittent errors in patient data synchronization across different modules, and second, users reported occasional system slowdowns, particularly during data retrieval processes.
+    <b>Situation: </b>In my previous role as a software developer at a startup company Nanonets, we were experiencing recurring issues with our business client data management system. Two main problems kept surfacing: first, there were intermittent errors in client data synchronization across different modules, and second, users reported occasional system slowdowns, particularly during data retrieval processes.
     </li>
     <li>
     <b>Task: </b>My task was to investigate and resolve these issues. While they initially appeared to be separate problems, I had a hunch that they might be interconnected and symptomatic of a deeper, underlying issue within the system.
