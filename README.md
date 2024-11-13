@@ -181,11 +181,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
+
 <details>
-<summary><b>Describe a time when you went above and beyond the requirements for a project.</b></summary>
+<summary><b> Describe a time when you went above and beyond the requirements for a project. </b></summary>
+<summary><b> Tell me about a time when you took on something significant outside your area of responsibility. Why was it important? What was the outcome? </b></summary>
 <ul>
     <li>
-        <b>Situation: </b>While working as a software developer at a tech startup, I was part of a team developing a new mobile application. The project had a tight deadline and was crucial for the company's growth strategy.
+        <b>Situation: </b>While working as a software developer at Marlin Protocol startup, I was part of a team developing a new wallet mobile application. The project had a tight deadline and was foundational to expand company's userbase.
     </li>
     <li>
         <b>Task: </b>My initial responsibility was to develop several features of the app within the set timeline. However, I recognized an opportunity to not only meet but exceed the project requirements by enhancing the user experience and performance of the application.
