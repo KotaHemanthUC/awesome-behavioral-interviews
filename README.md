@@ -285,11 +285,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
+
 <details>
 <summary><b>Describe a situation where you had to deal with a difficult customer.</b></summary>
+<summary><b>Tell me about a time when you had to balance the needs of the customer with the needs of the business. What did you do? What was the result?</b></summary>  
 <ul>
     <li>
-        <b>Situation: </b>In my role as a software developer at a software solutions company, we once had a client who was particularly challenging. They were unhappy with the initial version of a custom software tool we developed for them, claiming it didn't meet their expectations despite their requirements being met according to the project brief.
+        <b>Situation: </b>In my role as a software developer at a CISCO, we once had a legacy japanese client who was particularly challenging. They were unhappy with the initial version of a custom software tool we developed for them, claiming it didn't meet their expectations despite their requirements being met according to the project brief.
     </li>
     <li>
         <b>Task: </b>My task was to address the client's concerns, understand their specific issues with the product, and find a solution that would satisfy them without compromising our team's workflow and other project commitments.
@@ -302,6 +304,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
+
 <details>
 <summary><b>Tell me about a time when you missed a deadline. What happened, and how did you handle it?</b></summary>
 <ul>
