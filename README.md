@@ -445,6 +445,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 <details>
 <summary><b>How would you design/test a product to make sure its diverse/inclusive to all users?</b></summary>
+<summary><b>Tell me about a time when a customer came to you for something that wouldn't actually address their need. How did you approach the situation? What was the result?</b></summary>  
 <ul>
     <li>
         <b>Situation: </b>In my previous role at a software development company, we were creating a new health and fitness app. Early in the design phase, it became apparent that our initial user interface and content did not adequately address the diverse needs and experiences of all potential users, including those with disabilities and from various cultural backgrounds.
