@@ -528,6 +528,23 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
+    <details>
+  <summary><b> Give me an example of a complex problem you solved with a simple solution. What made the problem complex? How do you know your solution addressed the problem?</b></summary>
+  <ul>
+    <li>
+        <b>Situation: </b> When candidates are added to our reqs, customers keep asking for updates about what is going on with the customers and how are they doing on tests and etc. We provide them daily updates, but it wasn’t enough to deal with the large number of updates requests from the customer.
+    </li>
+    <li>
+        <b>Action: </b> I came up with an idea for an activity center which will give live updates for different candidates and the client can use it as a candidate pipeline news feed. I scoped it out with the PM and soon enough we started building the product.
+    </li>
+    <li>
+        <b>Result: </b>It is one of the most frequently used page to see whats happening with each customer, and anytime a customer opens up our site, the first thing they check is the activity center. Because of the simplicity of the product, we also increased our adoption rate.
+    </li>
+</ul>
+    </details>
+
+
+
 <details>
 <summary><b>Tell me about a complex technical project you've worked on.</b></summary>
 <ul>
