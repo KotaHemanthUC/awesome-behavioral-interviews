@@ -619,6 +619,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 <details>
 <summary><b>Assume you are given a task to design a system. How would you do it? How would you resolve ambiguity?</b></summary>
+<summary><b>Give me an example of a time when you asked for customer feedback. How did you use that feedback to drive innovation or improvement? How did the customer respond?</b></summary> 
 <ul>
     <li>
         When given a task to design a system, my approach involves several key steps to ensure clarity and effectiveness in the design process. Firstly, I start with requirement gathering. This involves discussing with stakeholders to understand their needs and expectations from the system. I ask detailed questions to clarify the scope and functionality required. For instance, in a previous project, I prepared a comprehensive list of questions that helped identify specific features and performance criteria expected from the system.
