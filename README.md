@@ -863,10 +863,14 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     <li><b>Result: </b>As a result of this learning initiative, I passed the certification exam with a high score. More importantly, I was able to immediately apply this knowledge in our team’s projects. For example, I led an initiative to optimize our application deployment using AWS Lambda, which resulted in a 30% reduction in our operational costs and improved scalability. My team and management appreciated this contribution, and it has now become a standard practice in our project deployments. This experience reinforced the importance of continuous learning and staying updated with industry advancements.</li>
 </ul>
 </details>
+
+
 <details>
 <summary><b>Tell me about a time when you had to make a decision without all the information you needed.</b></summary>
+<summary><b>Give me an example of a calculated risk that you have taken where speed was critical. What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome? Knowing what you know now, would you have done anything differently?</b></summary>
+  
 <ul>
-    <li><b>Situation: </b>In my last role as a software developer at an e-commerce company, we were in the middle of a critical project to overhaul our online payment system. The deadline was tight due to upcoming regulatory changes. Midway through the project, we encountered a major challenge with one of our payment gateway integrations. The gateway provider was delayed in providing us with the necessary API documentation due to their internal issues.
+    <li><b>Situation: </b>In my last role as a software developer at Marlin protocol, we were in the middle of a critical project to overhaul our online payment system. The deadline was tight due to upcoming regulatory changes. Midway through the project, we encountered a major challenge with one of our payment gateway integrations. The gateway provider was delayed in providing us with the necessary API documentation due to their internal issues.
     </li>
     <li><b>Task: </b>My task was to ensure the integration was completed on time, despite the lack of complete information from the gateway provider. We needed to move forward but had to do so cautiously to avoid any security or compliance issues.
     </li>
