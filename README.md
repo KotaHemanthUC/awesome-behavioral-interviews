@@ -183,8 +183,12 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 
 <details>
-<summary><b> Describe a time when you went above and beyond the requirements for a project. </b></summary>
-<summary><b> Tell me about a time when you took on something significant outside your area of responsibility. Why was it important? What was the outcome? </b></summary>
+<summary><b> Describe a time when you went above and beyond the requirements for a project. </b>
+<i>OR</i>
+<b> Tell me about a time when you took on something significant outside your area of responsibility. Why was it important? What was the outcome? </b>
+<i>OR</i>
+    <b>Tell me about a time when you not only met a goal but considerably exceeded expectations. How were you able to do it? What challenges did you have to overcome? <code>Deliver Results (3)</code></b>
+</summary>
 <ul>
     <li>
         <b>Situation: </b>While working as a software developer at Marlin Protocol startup, I was part of a team developing a new wallet mobile application. The project had a tight deadline and was foundational to expand company's userbase.
@@ -201,7 +205,10 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>How do you handle a situation where you don't know the answer to a question?</b></summary>
+<summary><b>How do you handle a situation where you don't know the answer to a question?</b>
+<b>Tell me about a time when you or your team were more than halfway to meeting a goal when you realized it may not be the right goal or may have unintended consequences. What was the situation? What did you do? What was the outcome? Looking back, would you have done anything differently?</b>
+    <code>Deliver Results (4)</code>
+</summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a tech firm, during a crucial client meeting, I was asked about integrating our software with a technology I was not familiar with.
@@ -218,7 +225,12 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Describe a time you received tough or critical feedback</b></summary>
+<summary><b>Describe a time you received tough or critical feedback</b>
+<i>OR</i>
+    <b>Give me an example of a mission or goal you didn’t think was achievable. What was it and how did you help your team try to achieve it? Were you successful in the end? Looking back, would you have done anything differently?</b>
+    <code>Deliver Results (5)</code>
+</summary>
+
 <ul>
     <li>
         <b>Situation: </b>In my role as a software developer at a tech company, we had just completed a major phase of a project where I was responsible for developing a key component of the application. During our review meeting, my manager provided critical feedback on my work.
@@ -252,7 +264,11 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Tell me about a time when you had to prioritize your tasks quickly.</b></summary>
+<summary><b>Tell me about a time when you had to prioritize your tasks quickly.</b>
+<i>OR</i>
+    <b>It can be difficult to set goals for a team that are challenging, yet achievable. Describe a time when you hit the right balance. How did you approach setting the goals? What was the outcome?</b>
+    <code>Deliver Results (7)</code>
+</summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a fast-paced tech startup, our team was often juggling multiple projects simultaneously. There was one particular week where the demands peaked unexpectedly.
@@ -306,7 +322,11 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 
 <details>
-<summary><b>Tell me about a time when you missed a deadline. What happened, and how did you handle it?</b></summary>
+<summary><b>Tell me about a time when you missed a deadline. What happened, and how did you handle it?</b>
+<i>OR</i>
+    <b>Tell me about a time when you did not effectively manage your projects and something did not get completed on time. What was the impact? What approaches do you use to make sure you are focusing on the right deliverables when you have several competing priorities?</b>
+    <code>Deliver Results (6)</code>
+</summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a digital agency, I was working on a critical update for a client's e-commerce website. The update was complex, involving several new features and integrations.
@@ -408,7 +428,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Describe a time when you delivered a project under a tight deadline.</b></summary>
+<summary>
+    <b>Describe a time when you delivered a project under a tight deadline.</b>
+    <i>OR</i>
+    <b>Give me an example of a time when you were able to deliver an important project under a tight deadline. What sacrifices did you have to make to meet the deadline? How did they impact the final deliverable? What was the final outcome?</b>
+    <code>Deliver Results (1)</code>
+</summary>
+
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a fintech company, we were tasked with developing a new feature for our mobile banking app. This feature was crucial for an upcoming regulatory compliance deadline, and we had a very tight timeframe to get it live.
@@ -892,8 +918,12 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 
 <details>
-<summary><b>Tell me about a time when you had to make a decision without all the information you needed.</b></summary>
-<summary><b>Give me an example of a calculated risk that you have taken where speed was critical. What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome? Knowing what you know now, would you have done anything differently?</b></summary>
+<summary><b>Tell me about a time when you had to make a decision without all the information you needed.</b>
+<i>OR</i>
+<b>Give me an example of a calculated risk that you have taken where speed was critical. What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome? Knowing what you know now, would you have done anything differently?</b>
+<i>OR</i>
+    <b>Tell me about a time when you had significant, unanticipated obstacles to overcome in achieving a key goal. What was the obstacle? Were you eventually successful? Knowing what you know now, is there anything you would have done differently? <code>Deliver Results (2)</code></b>
+</summary>
   
 <ul>
     <li><b>Situation: </b>In my last role as a software developer at Marlin protocol, we were in the middle of a critical project to overhaul our online payment system. The deadline was tight due to upcoming regulatory changes. Midway through the project, we encountered a major challenge with one of our payment gateway integrations. The gateway provider was delayed in providing us with the necessary API documentation due to their internal issues.
