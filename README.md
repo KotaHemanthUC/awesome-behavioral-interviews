@@ -1096,7 +1096,7 @@ Focus more what you did.
 https://github.com/yashchoubey/interview?tab=readme-ov-file : Dump this questions here !
 
 
-
+https://leetcode.com/discuss/study-guide/5929296/PART-2-:-SYSTEM-DESIGN-INTERVIEW-QUESTIONS/ : Can use some answers !
 
 
 
