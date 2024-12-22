@@ -1143,3 +1143,36 @@ Describe a time when you influenced and drove new thinking and innovation out of
 Tell me about a time when you had a challenging problem or situation that the usual approach wouldn't address. How did you select an alternative approach? What alternative approach(es) did you consider? What was the end result? What was the impact?
 
 Tell me about a novel idea you had or decision you made that had a big impact on your business. What was novel about it?
+
+
+Bias For Action :
+
+Give me an example of a calculated risk that you have taken where speed was critical. What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome? Knowing what you know now, would you have done anything differently?
+
+Tell me about a time when you worked against tight deadlines and didn't have time to consider all options before making a decision. How much time did you have? What approach did you take? What did you learn from the situation?
+
+Describe a situation where you made an important business decision without consulting your manager. What was the situation and how did it turn out? Would you have done anything differently?
+
+Tell me about a time when you had to gather information and respond immediately to a situation. What was the outcome? Would you have done anything differently?
+
+Give me an example of when you had to make an important decision and had to decide between moving forward or gathering more information. What did you do? What was the outcome? What information is necessary for you to have before acting?
+
+Tell me about a time when you saw an issue that would impact your team and took a proactive approach to solve it. What was the issue? What did you do and what was the outcome? What did you learn from this situation?
+
+Are right a lot:
+
+Tell me about a time when you didn't have enough data to make the right decision. What did you do? What path did you take? Did the decision turn out to be the correct one?
+
+Tell me about a strategic decision you had to make without clear data or benchmarks. How did you make your final decision? What alternatives did you consider? What were the tradeoffs of each? How did you mitigate risk?
+
+Tell me about a time when you made a difficult decision with input from many different sources (customers, stakeholders, partner teams, etc.). What was the situation and how did you arrive at your decision? Did the decision turn out to be the correct one? Why or why not?
+
+We don't always make the right decision all the time. Tell me about a time when you made a bad decision. What was the impact of that decision? What did you learn? How have you applied what you learned?
+
+We don't always make the right judgment all the time. Tell me about a time when you made an error in judgment. What was the impact? What did you learn? How have you applied what you learned?
+
+Tell me about a time when you discovered that your idea was not the best course of action. What was your idea? Why wasn't your idea the best course of action? How did you find out it was not the correct path? What was the best course of action? Who provided it? What did you learn from the experience?
+
+Describe a time when you brought different perspectives together to solve a problem. What types of different perspectives were represented? How did you seek out different points of view? What was the outcome? Where there any key learnings from this experience? Knowing what you know now, would you have done anything different?
+
+Senior Engineer's Guide to the Amazon Leadership Principles
