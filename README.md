@@ -11,6 +11,9 @@ This repository contains tips and resources to prepare for Behavioral interviews
 - Impact and fast resolution : Issue for how long and fast resolution?
 - Follow up : Then start with situation.
 - Why follow up usually with random question and cross question : Not byhearted and avoid. 
+- Fill Feedback : Strengths and Weakness
+- Oneliner benefits: 
+           Drawbacks: By hearted and mechanical.
 
 ## ✅ General Tips to succeed in Behavioral Interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
@@ -298,7 +301,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
    </li>
 
     <li>
-    <b> Task : Ensuring reliability in a system handling critical consumer requests requires a combination of proactive monitoring, fault tolerance mechanisms, and solid architectural design. Based on my experience, I recognized early on that we might face reliability in a system handling critical operations requires a combination of proactive monitoring, fault tolerance mechanisms, and solid architectural design. </b>
+    <b> Task : Ensuring reliability in a system handling critical consumer requests requires a combination of proactive monitoring, fault tolerance mechanisms, and solid architectural design. </b>
     </li>
 
  In my current project, we implemented health and readiness probes within Kubernetes to monitor the status of pods and auto-reschedule them when needed. This way, even if individual components fail, the system continues functioning with minimal downtime. We also leveraged multi-AZ (Availability Zones) deployment to ensure high availability, so even if one zone goes down, traffic can be routed to another. Additionally, we built redundancy into our architecture by taking regular snapshots of our database and using Redis backups to ensure quick recovery in case of failure. The challenge was managing these snapshots and backups without affecting system performance, which we addressed by scheduling these operations during non-peak hours.
@@ -325,6 +328,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 <details>
 <summary><b>Describe a situation where you had to deal with a difficult customer.</b></summary>
 <summary><b>Tell me about a time when you had to balance the needs of the customer with the needs of the business. What did you do? What was the result?</b></summary>  
+
+- To generic and can defend by confidentiality.
+
+- Trust
+- Fit for all
+- Success usecase to other developers
+
 <ul>
     <li>
         <b>Situation: </b>In my role as a software developer at a CISCO, we once had a legacy japanese client who was particularly challenging. They were unhappy with the initial version of a custom software tool we developed for them, claiming it didn't meet their expectations despite their requirements being met according to the project brief.
