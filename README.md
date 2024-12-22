@@ -1100,4 +1100,4 @@ https://leetcode.com/discuss/study-guide/5929296/PART-2-:-SYSTEM-DESIGN-INTERVIE
 
 
 
-
+https://github.com/srjit/interviews/blob/76b649e5390c6d4fa3b8ece00910b1b76e688c43/2021/companies/amazon/leadership-principles-answers.org#L3
