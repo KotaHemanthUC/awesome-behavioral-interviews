@@ -7,11 +7,6 @@
 
 This repository contains tips and resources to prepare for Behavioral interviews.
 
-- Make Result Writtable with 3 points atleast
-- Impact and fast resolution : Issue for how long and fast resolution?
-- Follow up : Then start with situation.
-- Why follow up usually with random question and cross question : Not byhearted and avoid. 
-
 ## ✅ General Tips to succeed in Behavioral Interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
 1. **Listen attentively:** Pay close attention to the interviewer's questions and follow-up prompts. Make sure your responses directly address what's being asked.
@@ -186,17 +181,11 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
-
 <details>
-<summary><b> Describe a time when you went above and beyond the requirements for a project. </b>
-<i>OR</i>
-<b> Tell me about a time when you took on something significant outside your area of responsibility. Why was it important? What was the outcome? </b>
-<i>OR</i>
-    <b>Tell me about a time when you not only met a goal but considerably exceeded expectations. How were you able to do it? What challenges did you have to overcome? <code>Deliver Results (3)</code></b>
-</summary>
+<summary><b>Describe a time when you went above and beyond the requirements for a project.</b></summary>
 <ul>
     <li>
-        <b>Situation: </b>While working as a software developer at Marlin Protocol startup, I was part of a team developing a new wallet mobile application. The project had a tight deadline and was foundational to expand company's userbase.
+        <b>Situation: </b>While working as a software developer at a tech startup, I was part of a team developing a new mobile application. The project had a tight deadline and was crucial for the company's growth strategy.
     </li>
     <li>
         <b>Task: </b>My initial responsibility was to develop several features of the app within the set timeline. However, I recognized an opportunity to not only meet but exceed the project requirements by enhancing the user experience and performance of the application.
@@ -210,10 +199,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>How do you handle a situation where you don't know the answer to a question?</b>
-<b>Tell me about a time when you or your team were more than halfway to meeting a goal when you realized it may not be the right goal or may have unintended consequences. What was the situation? What did you do? What was the outcome? Looking back, would you have done anything differently?</b>
-    <code>Deliver Results (4)</code>
-</summary>
+<summary><b>How do you handle a situation where you don't know the answer to a question?</b></summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a tech firm, during a crucial client meeting, I was asked about integrating our software with a technology I was not familiar with.
@@ -230,12 +216,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Describe a time you received tough or critical feedback</b>
-<i>OR</i>
-    <b>Give me an example of a mission or goal you didn’t think was achievable. What was it and how did you help your team try to achieve it? Were you successful in the end? Looking back, would you have done anything differently?</b>
-    <code>Deliver Results (5)</code>
-</summary>
-
+<summary><b>Describe a time you received tough or critical feedback</b></summary>
 <ul>
     <li>
         <b>Situation: </b>In my role as a software developer at a tech company, we had just completed a major phase of a project where I was responsible for developing a key component of the application. During our review meeting, my manager provided critical feedback on my work.
@@ -269,11 +250,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Tell me about a time when you had to prioritize your tasks quickly.</b>
-<i>OR</i>
-    <b>It can be difficult to set goals for a team that are challenging, yet achievable. Describe a time when you hit the right balance. How did you approach setting the goals? What was the outcome?</b>
-    <code>Deliver Results (7)</code>
-</summary>
+<summary><b>Tell me about a time when you had to prioritize your tasks quickly.</b></summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a fast-paced tech startup, our team was often juggling multiple projects simultaneously. There was one particular week where the demands peaked unexpectedly.
@@ -292,42 +269,25 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 <details>
 <summary><b>Describe a time when you anticipated potential problems and developed preventive measures.</b></summary>
 <ul>
-
-    <li>
-      <b>Situation: In my previous role as a software developer at Nanonets, we were working on a large-scale web application expected to handle a high volume of user traffic post-launch.</b>
-   </li>
-
-    <li>
-    <b> Task : Ensuring reliability in a system handling critical consumer requests requires a combination of proactive monitoring, fault tolerance mechanisms, and solid architectural design. Based on my experience, I recognized early on that we might face reliability in a system handling critical operations requires a combination of proactive monitoring, fault tolerance mechanisms, and solid architectural design. </b>
-    </li>
-
- In my current project, we implemented health and readiness probes within Kubernetes to monitor the status of pods and auto-reschedule them when needed. This way, even if individual components fail, the system continues functioning with minimal downtime. We also leveraged multi-AZ (Availability Zones) deployment to ensure high availability, so even if one zone goes down, traffic can be routed to another. Additionally, we built redundancy into our architecture by taking regular snapshots of our database and using Redis backups to ensure quick recovery in case of failure. The challenge was managing these snapshots and backups without affecting system performance, which we addressed by scheduling these operations during non-peak hours.
-
-    </li>
-
     <li>
         <b>Situation: </b>In my previous role as a software developer at a digital services company, we were working on a large-scale web application expected to handle a high volume of user traffic post-launch.
     </li>
     <li>
         <b>Task: </b>Based on my experience, I recognized early on that we might face scalability issues if the user base grew rapidly. My task was to ensure the application was scalable and could handle the projected increase in traffic without performance degradation.
     </li>
-
     <li>
         <b>Action: </b>To address this, I proposed conducting a series of load testing procedures before the launch. I collaborated with the testing team to design and implement these tests, which simulated varying levels of user traffic. This allowed us to identify bottlenecks in the system's ability to handle high concurrent user loads. Based on the test results, I led a team effort to optimize database queries, implement efficient caching mechanisms, and utilize load balancing solutions. Additionally, I advocated for the integration of an auto-scaling solution for our cloud infrastructure, ensuring that the application could dynamically adjust to traffic demands.
     </li>
-
     <li>
-        <b>Result: </b>These proactive measures paid off during the application maintainence. The launch campaign was highly successful, leading to a rapid influx of users. Thanks to the reliability mechanism improvements, the application handled the surge in traffic flawlessly, with no significant performance issues. This success not only boosted the client’s confidence in our company but also led to recognition from our senior management for the foresight and technical proficiency demonstrated by our team. This experience reinforced the importance of anticipating potential challenges and proactively implementing solutions in software development.
+        <b>Result: </b>These proactive measures paid off when the application launched. The launch campaign was highly successful, leading to a rapid influx of users. Thanks to the scalability improvements, the application handled the surge in traffic flawlessly, with no significant performance issues. This success not only boosted the client’s confidence in our company but also led to recognition from our senior management for the foresight and technical proficiency demonstrated by our team. This experience reinforced the importance of anticipating potential challenges and proactively implementing solutions in software development.
     </li>
 </ul>
 </details>
-
 <details>
 <summary><b>Describe a situation where you had to deal with a difficult customer.</b></summary>
-<summary><b>Tell me about a time when you had to balance the needs of the customer with the needs of the business. What did you do? What was the result?</b></summary>  
 <ul>
     <li>
-        <b>Situation: </b>In my role as a software developer at a CISCO, we once had a legacy japanese client who was particularly challenging. They were unhappy with the initial version of a custom software tool we developed for them, claiming it didn't meet their expectations despite their requirements being met according to the project brief.
+        <b>Situation: </b>In my role as a software developer at a software solutions company, we once had a client who was particularly challenging. They were unhappy with the initial version of a custom software tool we developed for them, claiming it didn't meet their expectations despite their requirements being met according to the project brief.
     </li>
     <li>
         <b>Task: </b>My task was to address the client's concerns, understand their specific issues with the product, and find a solution that would satisfy them without compromising our team's workflow and other project commitments.
@@ -340,13 +300,8 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
-
 <details>
-<summary><b>Tell me about a time when you missed a deadline. What happened, and how did you handle it?</b>
-<i>OR</i>
-    <b>Tell me about a time when you did not effectively manage your projects and something did not get completed on time. What was the impact? What approaches do you use to make sure you are focusing on the right deliverables when you have several competing priorities?</b>
-    <code>Deliver Results (6)</code>
-</summary>
+<summary><b>Tell me about a time when you missed a deadline. What happened, and how did you handle it?</b></summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a digital agency, I was working on a critical update for a client's e-commerce website. The update was complex, involving several new features and integrations.
@@ -448,13 +403,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary>
-    <b>Describe a time when you delivered a project under a tight deadline.</b>
-    <i>OR</i>
-    <b>Give me an example of a time when you were able to deliver an important project under a tight deadline. What sacrifices did you have to make to meet the deadline? How did they impact the final deliverable? What was the final outcome?</b>
-    <code>Deliver Results (1)</code>
-</summary>
-
+<summary><b>Describe a time when you delivered a project under a tight deadline.</b></summary>
 <ul>
     <li>
         <b>Situation: </b>In my previous role as a software developer at a fintech company, we were tasked with developing a new feature for our mobile banking app. This feature was crucial for an upcoming regulatory compliance deadline, and we had a very tight timeframe to get it live.
@@ -471,8 +420,6 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-  
-<summary><b>Describe a time when you didn't think you were going to meet a commitment you promised. How did you identify the risk and communicate it to stakeholders? Is there anything you would do differently?.</b></summary> 
 <summary><b>Describe a time when you took a big risk and it failed.</b></summary>
 <ul>
     <li>
@@ -491,7 +438,6 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 <details>
 <summary><b>How would you design/test a product to make sure its diverse/inclusive to all users?</b></summary>
-<summary><b>Tell me about a time when a customer came to you for something that wouldn't actually address their need. How did you approach the situation? What was the result?</b></summary>  
 <ul>
     <li>
         <b>Situation: </b>In my previous role at a software development company, we were creating a new health and fitness app. Early in the design phase, it became apparent that our initial user interface and content did not adequately address the diverse needs and experiences of all potential users, including those with disabilities and from various cultural backgrounds.
@@ -575,23 +521,6 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
-    <details>
-  <summary><b> Give me an example of a complex problem you solved with a simple solution. What made the problem complex? How do you know your solution addressed the problem?</b></summary>
-  <ul>
-    <li>
-        <b>Situation: </b> When candidates are added to our reqs, customers keep asking for updates about what is going on with the customers and how are they doing on tests and etc. We provide them daily updates, but it wasn’t enough to deal with the large number of updates requests from the customer.
-    </li>
-    <li>
-        <b>Action: </b> I came up with an idea for an activity center which will give live updates for different candidates and the client can use it as a candidate pipeline news feed. I scoped it out with the PM and soon enough we started building the product.
-    </li>
-    <li>
-        <b>Result: </b>It is one of the most frequently used page to see whats happening with each customer, and anytime a customer opens up our site, the first thing they check is the activity center. Because of the simplicity of the product, we also increased our adoption rate.
-    </li>
-</ul>
-    </details>
-
-
-
 <details>
 <summary><b>Tell me about a complex technical project you've worked on.</b></summary>
 <ul>
@@ -665,7 +594,6 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </details>
 <details>
 <summary><b>Assume you are given a task to design a system. How would you do it? How would you resolve ambiguity?</b></summary>
-<summary><b>Give me an example of a time when you asked for customer feedback. How did you use that feedback to drive innovation or improvement? How did the customer respond?</b></summary> 
 <ul>
     <li>
         When given a task to design a system, my approach involves several key steps to ensure clarity and effectiveness in the design process. Firstly, I start with requirement gathering. This involves discussing with stakeholders to understand their needs and expectations from the system. I ask detailed questions to clarify the scope and functionality required. For instance, in a previous project, I prepared a comprehensive list of questions that helped identify specific features and performance criteria expected from the system.
@@ -935,18 +863,10 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     <li><b>Result: </b>As a result of this learning initiative, I passed the certification exam with a high score. More importantly, I was able to immediately apply this knowledge in our team’s projects. For example, I led an initiative to optimize our application deployment using AWS Lambda, which resulted in a 30% reduction in our operational costs and improved scalability. My team and management appreciated this contribution, and it has now become a standard practice in our project deployments. This experience reinforced the importance of continuous learning and staying updated with industry advancements.</li>
 </ul>
 </details>
-
-
 <details>
-<summary><b>Tell me about a time when you had to make a decision without all the information you needed.</b>
-<i>OR</i>
-<b>Give me an example of a calculated risk that you have taken where speed was critical. What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome? Knowing what you know now, would you have done anything differently?</b>
-<i>OR</i>
-    <b>Tell me about a time when you had significant, unanticipated obstacles to overcome in achieving a key goal. What was the obstacle? Were you eventually successful? Knowing what you know now, is there anything you would have done differently? <code>Deliver Results (2)</code></b>
-</summary>
-  
+<summary><b>Tell me about a time when you had to make a decision without all the information you needed.</b></summary>
 <ul>
-    <li><b>Situation: </b>In my last role as a software developer at Marlin protocol, we were in the middle of a critical project to overhaul our online payment system. The deadline was tight due to upcoming regulatory changes. Midway through the project, we encountered a major challenge with one of our payment gateway integrations. The gateway provider was delayed in providing us with the necessary API documentation due to their internal issues.
+    <li><b>Situation: </b>In my last role as a software developer at an e-commerce company, we were in the middle of a critical project to overhaul our online payment system. The deadline was tight due to upcoming regulatory changes. Midway through the project, we encountered a major challenge with one of our payment gateway integrations. The gateway provider was delayed in providing us with the necessary API documentation due to their internal issues.
     </li>
     <li><b>Task: </b>My task was to ensure the integration was completed on time, despite the lack of complete information from the gateway provider. We needed to move forward but had to do so cautiously to avoid any security or compliance issues.
     </li>
@@ -959,13 +879,10 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-
-<summary><b> Tell me about a situation that required you to dig deep to get to the root cause. How did you know you were focusing on the right things? What was the outcome? Would you have done anything differently? </b></summary>
-  
-<summary><b> Tell me a time when you linked two or more problems together and identified an underlying issue.</b></summary>
+<summary><b>Tell me a time when you linked two or more problems together and identified an underlying issue.</b></summary>
 <ul>
     <li>
-    <b>Situation: </b>In my previous role as a software developer at a startup company Nanonets, we were experiencing recurring issues with our business client data management system. Two main problems kept surfacing: first, there were intermittent errors in client data synchronization across different modules, and second, users reported occasional system slowdowns, particularly during data retrieval processes.
+    <b>Situation: </b>In my previous role as a software developer at a healthcare technology company, we were experiencing recurring issues with our patient data management system. Two main problems kept surfacing: first, there were intermittent errors in patient data synchronization across different modules, and second, users reported occasional system slowdowns, particularly during data retrieval processes.
     </li>
     <li>
     <b>Task: </b>My task was to investigate and resolve these issues. While they initially appeared to be separate problems, I had a hunch that they might be interconnected and symptomatic of a deeper, underlying issue within the system.
@@ -1001,20 +918,6 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     <li><b>Result: </b>
     </li>
 </ul>
-</details>
-
-<details>
-<summary><b>Describe a time when you took an unpopular stance in a meeting with peers and your leader. What was it? Why did you feel strongly about it? What did you do? What was the outcome?</b></summary>
-
- <li><b>Situation: </b> We had an overflow of client requests for new features and as the product was growing, we were also facing a scale of input which we haven't seen before. Because of this, we had a scalability problem. But because the product was being widely used, the clients wanted new features for easier process for their own. The manager wanted to focus on new client requests and many of my peers agreed to the same, but I was on the side of focusing on scalability issues and stopping new client requests until we could clear out the problems which we were already facing. I felt that the scalability issues are more important, I wanted our product to have a good flow with the existing features instead of adding new capabilities onto an existing low throughput application. On the other hand, we weren’t in a position to deny client requests because the customer is the god and we didn’t want to disappoint our user base.
-    </li>
-    <li><b>Task: </b> At the end of the discussion, we agreed that we weren’t in a position to deny clients and started working on the new features.
-    </li>
-    <li><b>Action: </b>At the end of the discussion, we agreed that we weren’t in a position to deny clients and started working on the new features.
-    </li>
-    <li><b>Result: </b>The development of new features went well, but in the middle, as we didn’t have a scalable architecture, we faced major outages, heavy backlog in our application which reduced the customer satisfaction. In hindsight, I understand why we had to take that decision. We wanted the customers and to keep them happy and weren’t in a position to be in a dissatisfied state with them. I would probably take the same decision if I was the major stakeholder.
-    </li>
-  
 </details>
 
 ## ？Questions you can ask the interviewer
@@ -1113,23 +1016,14 @@ Likeable
 Focus more what you did. 
 
 
-https://github.com/yashchoubey/interview?tab=readme-ov-file : Dump this questions here !
-
-
-https://leetcode.com/discuss/study-guide/5929296/PART-2-:-SYSTEM-DESIGN-INTERVIEW-QUESTIONS/ : Can use some answers !
 
 
 
-https://github.com/srjit/interviews/blob/76b649e5390c6d4fa3b8ece00910b1b76e688c43/2021/companies/amazon/leadership-principles-answers.org#L3
+Bias for Action
 
-Give me an example of a complex problem you solved with a simple solution. What made the problem complex? How do you know your solution addressed the problem?
 
-Describe the most innovative thing you’ve done and why you thought it was innovative. Ask for one or two more examples to see if it's a pattern of innovative thinking. What was the problem it was solving? What was innovative about it?
+Learn and Be Curious:
 
-Tell me about a time when you were able to make something simpler for customers. What drove you to implement this change? What was the impact?
+Describe a time when you took on work outside of your comfort area. How did you identify what you needed to learn to be successful? How did you go about building expertise to meet your goal? Did you meet your goal?
 
-Describe a time when you influenced and drove new thinking and innovation out of your team. Give an example of how your approach led to a specific innovation.
-
-Tell me about a time when you had a challenging problem or situation that the usual approach wouldn't address. How did you select an alternative approach? What alternative approach(es) did you consider? What was the end result? What was the impact?
-
-Tell me about a novel idea you had or decision you made that had a big impact on your business. What was novel about it?
+In one of my feedback sessions with my manager, they said to me that even though I work well and help people out, I generally look unapproachable. I used to be the kind of person who would come to work, work, and then leave. My manager said that this mentality might become a disadvantage. So, I started to work on myself.
